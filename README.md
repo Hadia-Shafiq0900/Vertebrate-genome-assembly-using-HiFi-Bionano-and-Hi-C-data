@@ -1,6 +1,6 @@
 # Vertebrate Genome Assembly using Galaxy (VGP Pipeline)
 
-## 📌 Overview
+##  Overview
 This project demonstrates a complete **de novo genome assembly workflow** using the Galaxy platform, following the Vertebrate Genomes Project (VGP) pipeline.
 
 The goal is to generate a **high-quality genome assembly** using multiple sequencing technologies including:
@@ -10,7 +10,7 @@ The goal is to generate a **high-quality genome assembly** using multiple sequen
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Perform genome assembly using HiFi reads
 - Analyze genome characteristics using k-mer profiling
 - Generate haplotype-resolved assemblies
@@ -18,7 +18,7 @@ The goal is to generate a **high-quality genome assembly** using multiple sequen
 
 ---
 
-## 🧬 Workflow Summary
+##  Workflow Summary
 
 ### 1. Data Upload
 - Uploaded HiFi reads (`.fasta`)
@@ -59,15 +59,14 @@ Used:
 
 ---
 
-### 7. Purging (Optional)
-- Removed duplicate regions using **purge_dups**
 
----
 
 ### 8. Scaffolding
 - Performed hybrid scaffolding using:
   - **Bionano optical maps**
   - **Hi-C data (YaHS)**
+  - <img width="542" height="374" alt="image" src="https://github.com/user-attachments/assets/c667f4d7-ba29-4434-b891-1d85b818595e" />
+
 
 ---
 
