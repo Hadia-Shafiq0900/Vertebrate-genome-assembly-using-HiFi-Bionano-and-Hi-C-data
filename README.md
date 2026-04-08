@@ -73,6 +73,7 @@ Used:
 ### 9. Final Output
 - Chromosome-level genome assembly
 - Improved contiguity and accuracy
+<img width="1000" height="1000" alt="pretext_snapshoth2tg000073l_path_obj" src="https://github.com/user-attachments/assets/e5891cdd-0b0d-4c8b-acfd-bd06fdeb6645" />
 
 ---
 
