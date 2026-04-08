@@ -1,0 +1,89 @@
+#KEY	hap1 stats_2	hap2 stats_2
+# contigs	136	151
+# gaps	0	0
+# paths	136	151
+# segments	136	151
+# soft-masked bases	0	0
+Average contig length	81,477.26	79,878.07
+Average segment length	81,477.26	79,878.07
+Base composition (A:C:G:T)	3,422,928:2,126,417:2,121,327:3,410,236	3,735,047:2,306,451:2,298,761:3,721,330
+Contig L10	4	4
+Contig L100	136	151
+Contig L20	8	9
+Contig L30	13	15
+Contig L40	20	23
+Contig L50	30	33
+Contig L50	30	33
+Contig L50	30	33
+Contig L50	30	33
+Contig L60	41	46
+Contig L70	55	60
+Contig L80	72	78
+Contig L90	96	104
+Contig LG10	4	4
+Contig LG100	0	133
+Contig LG20	8	8
+Contig LG30	14	14
+Contig LG40	22	22
+Contig LG50	33	32
+Contig LG50	33	32
+Contig LG50	33	32
+Contig LG50	33	32
+Contig LG60	46	44
+Contig LG70	61	57
+Contig LG80	82	74
+Contig LG90	113	97
+Contig N10	314,156	311,054
+Contig N100	13,280	12,359
+Contig N20	229,381	224,644
+Contig N30	176,112	170,484
+Contig N40	136,687	137,554
+Contig N50	104,347	104,504
+Contig N50	104,347	104,504
+Contig N50	104,347	104,504
+Contig N50	104,347	104,504
+Contig N60	89,294	89,345
+Contig N70	75,622	76,956
+Contig N80	57,033	57,837
+Contig N90	39,552	38,863
+Contig NG10	314,156	311,054
+Contig NG100	0	23,128
+Contig NG20	229,381	229,207
+Contig NG30	173,872	173,719
+Contig NG40	126,557	138,126
+Contig NG50	97,308	106,665
+Contig NG50	97,308	106,665
+Contig NG50	97,308	106,665
+Contig NG50	97,308	106,665
+Contig NG60	85,707	90,798
+Contig NG70	66,547	81,680
+Contig NG80	46,694	59,547
+Contig NG90	28,379	43,068
+Contig auN	143,416.80	139,433.89
+Contig auNG	135,282.77	143,166.03
+Expected genome size	11,747,160	11,747,160
+GC content %	38.33	38.18
+Gap L10	0	0
+Gap L100	0	0
+Gap L20	0	0
+Gap L30	0	0
+Gap L40	0	0
+Gap L50	0	0
+Gap L60	0	0
+Gap L70	0	0
+Gap L80	0	0
+Gap L90	0	0
+Gap N10	0	0
+Gap N100	0	0
+Gap N20	0	0
+Gap N30	0	0
+Gap N40	0	0
+Gap N50	0	0
+Gap N60	0	0
+Gap N70	0	0
+Gap N80	0	0
+Gap N90	0	0
+Largest contig	349,267	350,327
+Smallest contig	13,280	12,359
+Total contig length	11,080,908	12,061,589
+Total segment length	11,080,908	12,061,589
